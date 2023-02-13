@@ -85,6 +85,7 @@
                     "ru": "Пользователи Google Play не смогут играть в новом, четвёртом сезоне. На этой платформе по-прежнему доступна версия игры 13.40.",
                     "tr": "4. Sezon'un gelişiyle birlikte Google Play platformundaki oyuncular yeni sezona erişemeyecek. Bu platformda, oyuncular yalnızca v13.40 sürümünü oynayabilecek."
                 },
+                "offerAction": "ShowOfferDetails",
                 "videoLoop": false,
                 "videoStreamingEnabled": false,
                 "sortingPriority":99,
@@ -134,6 +135,7 @@
                     "ru": "Пользователи Google Play не смогут играть в новом, четвёртом сезоне. На этой платформе по-прежнему доступна версия игры 13.40.",
                     "tr": "4. Sezon'un gelişiyle birlikte Google Play platformundaki oyuncular yeni sezona erişemeyecek. Bu platformda, oyuncular yalnızca v13.40 sürümünü oynayabilecek."
                 },
+                "offerAction": "ShowOfferDetails",
                 "videoLoop": false,
                 "videoStreamingEnabled": false,
                 "sortingPriority":99,
