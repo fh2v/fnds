@@ -1,0 +1,47 @@
+{
+    "jcr:isCheckedOut": true,
+    "_title": "Fortnite Game",
+    "jcr:baseVersion": "a7ca237317f1e7b00bc82e-d9a2-4f0d-b951-704d295cd1aa",
+    "_activeDate": "2017-07-24T22:24:02.300Z",
+    "lastModified": "2020-11-01T17:36:19.024Z",
+    "_locale": "en-US",
+    "emergencynotice": {
+        "news": {
+            "platform_messages": [],
+            "_type": "Battle Royale News",
+            "messages": [{
+                "hidden": false,
+                "_type": "CommonUI Simple Message Base",
+                "subgame": "br",
+                "body": "Welcome to ForestFN!\r\nClick here for dsc.forestfn\r\nCreated by BiruFN#0746.\r\nsolved the crash problem.",
+                "title": "dsc.gg/forestfn",
+                "spotlight": false
+            }]
+        },
+        "jcr:isCheckedOut": true,
+        "_title": "emergencynotice",
+        "_noIndex": false,
+        "alwaysShow": true,
+        "jcr:baseVersion": "a7ca237317f1e761d4ee60-7c40-45a8-aa3e-bb0a2ffa9bb5",
+        "_activeDate":"2018-08-06T19:00:26.217Z",
+            "lastModified":"2023-01-17T20:56:06.655Z",
+        "_locale": "en-US"
+    },
+    "emergencynoticev2": {
+        "jcr:isCheckedOut": true,
+        "_title": "emergencynoticev2",
+        "_noIndex": false,
+        "emergencynotices": {
+            "_type": "Emergency Notices",
+            "emergencynotices": [{
+                "hidden": false,
+                "_type": "CommonUI Emergency Notice Base",
+                "title": "dsc.gg/forestfn",
+                "body": "Welcome to ForestFN!\r\nClick here for dsc.forestfn\r\nCreated by BiruFN#0746.\r\nsolved the crash problem."
+            }]
+        },
+        "_activeDate":"2018-08-06T19:00:26.217Z",
+        "lastModified":"2023-01-17T20:56:06.655Z",
+        "_locale": "en-US"
+    }
+}
