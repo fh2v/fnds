@@ -20,6 +20,20 @@
                     },
                     "quantity": 16500,
                     "templateId": "Currency:MtxPurchased"
+                },
+                "HomebaseBannerColor:DefaultColor1": {
+                    "templateId": "HomebaseBannerColor:DefaultColor1",
+                    "attributes": {
+                        "item_seen": true
+                    },
+                    "quantity": 1
+                },
+                "HomebaseBannerIcon:StandardBanner1": {
+                    "templateId": "HomebaseBannerIcon:StandardBanner1",
+                    "attributes": {
+                        "item_seen": true
+                    },
+                    "quantity": 1
                 }
             },
             "stats": {
