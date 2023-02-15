@@ -1,6 +1,3 @@
-
-
-
 {
     "profileRevision": 1,
     "profileId": "athena",
@@ -352,7 +349,7 @@
                     "accountLevel": 1,
                     "favorite_backpack": "",
                     "favorite_dance": [
-                        "",
+                        "AthenaDance:EID_DanceMoves",
                         "",
                         "",
                         "",
