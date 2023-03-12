@@ -1,0 +1,35 @@
+{
+    "namespace": "fn",
+    "accountId": "forestserverid",
+    "creatorName": "forest",
+    "mnemonic": "9999-9999-9999",
+    "linkType": "Creative:Island",
+    "metadata": {
+        "tagline": "Battle Royal Island",
+        "islandType": "CreativePlot:flatgrid_xl",
+        "title": "Creative In Battle Royal Island!",
+        "locale": "en",
+        "matchmaking": {
+            "joinInProgressType":"JoinImmediately",
+            "playersPerTeam":-1,
+            "maximumNumberOfPlayers":10,
+            "override_Playlist":"",
+            "playerCount":10,
+            "mmsType":"keep_full",
+            "numberOfTeams":10,
+            "bAllowJoinInProgress":true,
+            "minimumNumberOfPlayers":10,
+            "joinInProgressTeam":255
+        },
+        "supportCode": "forest",
+        "introduction": "Creative In Battle Royal Island!",
+    },
+    "version": 1,
+    "active": true,
+    "disabled": false,
+    "created": "2022-07-13T22:08:50.682Z",
+    "descriptionTags": [
+        "Terrain"
+    ],
+    "moderationStatus": "Approved"
+}
