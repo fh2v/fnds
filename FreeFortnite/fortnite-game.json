@@ -13,8 +13,8 @@
                 "hidden": false,
                 "_type": "CommonUI Simple Message Base",
                 "subgame": "br",
-                "body": "ForestFN Ver.2.0 solved the crash problem.",
-                "title": "dsc.gg/forestfn",
+                "body": "FNLeaks Hybrid Ver.1.0",
+                "title": "FNLeaks Hybrid",
                 "spotlight": false
             }]
         },
@@ -36,8 +36,8 @@
             "emergencynotices": [{
                 "hidden": false,
                 "_type": "CommonUI Emergency Notice Base",
-                "title": "dsc.gg/forestfn",
-                "body": "ForestFN Ver.2.0 solved the crash problem."
+                "title": "FNLeaks Hybrid",
+                "body": "FNLeaks Hybrid Ver.1.0."
             }]
         },
         "_activeDate":"2018-08-06T19:00:26.217Z",
